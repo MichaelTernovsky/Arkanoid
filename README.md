@@ -5,7 +5,7 @@ That implementation of the classic Arkanoid game was written in Java as a projec
 The game has 3 level sets which you can enjoy.
 
 # Make File
-the makefile has 3 targets:
+The makefile has 3 targets:
 
 compile: compiles all packages in the src directory, using the resources in the directory with the same name, and using the biuoop jar and the tools provided by it.
 
