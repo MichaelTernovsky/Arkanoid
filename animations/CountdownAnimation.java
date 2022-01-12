@@ -5,7 +5,7 @@ import components.SpriteCollection;
 import game.LevelInformation;
 /**
  * Class CountdownAnimation.
- * @author Michael Ternovsky 316534809
+ * @author Michael Ternovsky
  */
 public class CountdownAnimation implements Animation {
     private double numOfSeconds;
