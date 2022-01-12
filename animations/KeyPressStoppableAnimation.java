@@ -3,7 +3,7 @@ import biuoop.DrawSurface;
 import biuoop.KeyboardSensor;
 /**
  * Class KeyPressStoppableAnimation.
- * @author Michael Ternovsky 316534809
+ * @author Michael Ternovsky
  */
 public class KeyPressStoppableAnimation implements Animation {
     private KeyboardSensor sensor;
