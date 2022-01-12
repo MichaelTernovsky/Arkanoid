@@ -5,7 +5,7 @@ import java.util.List;
 import biuoop.DrawSurface;
 /**
  * MenuAnimation<T> class.
- * @author Michael Ternovsky 316534809
+ * @author Michael Ternovsky
  * @param <T> - parameter.
  */
 public class MenuAnimation<T> implements Menu<T> {
