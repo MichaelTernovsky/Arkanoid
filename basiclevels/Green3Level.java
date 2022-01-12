@@ -9,7 +9,7 @@ import geometry.Rectangle;
 import interfaces.Sprite;
 /**
  * Class Blue3Level.
- * @author Michael Ternovsky 316534809
+ * @author Michael Ternovsky
  */
 public class Green3Level implements LevelInformation {
     private int numberOfBalls;
