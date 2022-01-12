@@ -1,7 +1,7 @@
 package animations;
 /**
  * interface Menu.
- * @author Michael Ternovsky 316534809
+ * @author Michael Ternovsky
  * @param <T> - parameter.
  */
 public interface Menu<T> extends Animation {
