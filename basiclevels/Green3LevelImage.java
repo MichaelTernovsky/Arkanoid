@@ -4,7 +4,7 @@ import biuoop.DrawSurface;
 import interfaces.Sprite;
 /**
  * Class Blue3LevelImage.
- * @author Michael Ternovsky 316534809
+ * @author Michael Ternovsky
  */
 public class Green3LevelImage implements Sprite {
     /**
