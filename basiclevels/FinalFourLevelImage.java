@@ -4,7 +4,7 @@ import biuoop.DrawSurface;
 import interfaces.Sprite;
 /**
  * Class FinalFourLevelImage.
- * @author Michael Ternovsky 316534809
+ * @author Michael Ternovsky
  */
 public class FinalFourLevelImage implements Sprite {
     /**
