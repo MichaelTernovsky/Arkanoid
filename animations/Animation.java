@@ -2,7 +2,7 @@ package animations;
 import biuoop.DrawSurface;
 /**
  * interface Animation.
- * @author Michael Ternovsky 316534809
+ * @author Michael Ternovsky
  */
 public interface Animation {
     /**
