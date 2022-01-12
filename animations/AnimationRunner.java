@@ -3,7 +3,7 @@ import biuoop.DrawSurface;
 import biuoop.GUI;
 /**
  * Class AnimationRunner.
- * @author Michael Ternovsky 316534809
+ * @author Michael Ternovsky
  */
 public class AnimationRunner {
     private GUI gui;
