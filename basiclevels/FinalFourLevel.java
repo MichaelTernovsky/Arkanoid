@@ -9,7 +9,7 @@ import geometry.Rectangle;
 import interfaces.Sprite;
 /**
  * Class FinalFourLevel.
- * @author Michael Ternovsky 316534809
+ * @author Michael Ternovsky
  */
 public class FinalFourLevel implements LevelInformation {
     private int numberOfBalls;
