@@ -7,7 +7,7 @@ import score.HighScoresTable;
 import score.ScoreInfo;
 /**
  * HighScoresAnimation class.
- * @author Michael Ternovsky 316534809
+ * @author Michael Ternovsky
  */
 public class HighScoresAnimation implements Animation {
     private boolean stop;
