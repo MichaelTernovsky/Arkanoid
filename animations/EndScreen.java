@@ -2,7 +2,7 @@ package animations;
 import biuoop.DrawSurface;
 /**
  * PauseScreen class.
- * @author Michael Ternovsky 316534809
+ * @author Michael Ternovsky
  */
 public class EndScreen implements Animation {
     private boolean stop;
